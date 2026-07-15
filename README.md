@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankit Kumar Verma
 
-<!--
-**akv317184/akv317184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | SQL | Power BI | Excel | Python
 
-Here are some ideas to get you started:
+I am passionate about transforming data into meaningful insights and helping organizations make data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 📍 Hyderabad, India
+- 📊 Data Analysis
+- 📈 Power BI Dashboard Development
+- 🗄️ SQL
+- 🐍 Python
+- 📑 Advanced Excel
+- 🌱 Currently learning Data Science
+
+## 🛠 Skills
+
+- SQL
+- Power BI
+- Excel
+- Python
+- Tableau
+- Statistics
+- Data Visualization
+- Business Analytics
+
+## 📂 Projects
+
+### Sales Dashboard
+Created Power BI dashboards to analyze sales performance.
+
+### Customer Churn Analysis
+Used SQL and Python to identify customer retention trends.
+
+### HR Analytics Dashboard
+Built workforce analytics reports.
+
+## 🏆 Certifications
+
+- Microsoft Power BI
+- Google Data Analytics
+- SQL Certifications
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/akv317184
+- Email: akv317184@gmail.com
